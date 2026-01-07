@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Cloned library repos (they're already git repos)
+resources/repos/
+
+# OS files
+.DS_Store
+*.log
+*.tmp
+*.swp
