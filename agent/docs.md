@@ -1,5 +1,5 @@
 ---
-description: Search and answer questions from library documentation resources. Use for questions about external libraries like Svelte, Tailwind, React, Vue, Next.js, etc.
+description: Search and answer questions from library documentation resources. Use this agent whenever you need to search (resource_search), read (resource_read), or explore (resource_tree) cloned documentation repositories. Handles questions about external libraries like Svelte, Tailwind, React, Recoil, Jotai, Vue, Next.js, etc.
 mode: subagent
 tools:
   write: false

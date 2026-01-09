@@ -8,25 +8,7 @@
       "notes": "Svelte docs",
       "scope": "global",
       "clonedAt": "2026-01-07T06:29:14.340Z",
-      "updatedAt": "2026-01-07T06:59:58.870Z"
-    },
-    {
-      "name": "recoil",
-      "url": "https://github.com/facebookexperimental/Recoil",
-      "branch": "main",
-      "notes": "",
-      "scope": "global",
-      "clonedAt": "2026-01-07T06:46:20.697Z",
-      "updatedAt": "2026-01-07T06:59:59.391Z"
-    },
-    {
-      "name": "jotai",
-      "url": "https://github.com/pmndrs/jotai",
-      "branch": "main",
-      "notes": "",
-      "scope": "global",
-      "clonedAt": "2026-01-07T06:55:41.460Z",
-      "updatedAt": "2026-01-07T06:59:59.919Z"
+      "updatedAt": "2026-01-08T14:54:59.395Z"
     }
   ]
 }
