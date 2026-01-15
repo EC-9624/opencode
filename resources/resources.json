@@ -8,7 +8,16 @@
       "notes": "Svelte docs",
       "scope": "global",
       "clonedAt": "2026-01-07T06:29:14.340Z",
-      "updatedAt": "2026-01-08T14:54:59.395Z"
+      "updatedAt": "2026-01-14T02:15:15.948Z"
+    },
+    {
+      "name": "opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "branch": "dev",
+      "notes": "",
+      "scope": "global",
+      "clonedAt": "2026-01-09T08:54:59.811Z",
+      "updatedAt": "2026-01-14T02:15:17.560Z"
     }
   ]
 }
